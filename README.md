@@ -21,7 +21,7 @@
 ╚════════════════════════════════════════════════════════╝
 ```
 
-A Jeopardy-style team quiz game built with React, Vite, and Tailwind CSS. Originally prototyped in [Figma Make](https://www.figma.com/design/Uq7I1WumrMczmUpTrlReiJ/Quiz-Roulette).
+A Jeopardy-style team quiz game built with React, Vite, and Tailwind CSS.
 
 ## How it works
 
